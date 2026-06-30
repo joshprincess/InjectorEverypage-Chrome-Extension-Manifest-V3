@@ -4,6 +4,8 @@ _Chrome Extension Development Tutorial: How To Inject JavaScript And CSS Into An
 
 A Chrome extension is a small software program that can be added to the Google Chrome web browser to inject anything into every page, with no permission errors and at document start before the page loads.
 
+The example included will spoof your time, hardware, browser, audio, and webgl video card as well as some other amazing features.
+
 ## If You Enjoy My Content, Please Support Me 😍🙏
 
 💛 My Public Address To Receive LTC • Litecoin
